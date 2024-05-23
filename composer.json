@@ -1,0 +1,19 @@
+{
+    "name": "hkipngetich/password_verify",
+    "description": "Authentication service for password created using password_hash",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hkipngetich\\PasswordVerify\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hillary Kipngetich",
+            "email": "hpngetich@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
